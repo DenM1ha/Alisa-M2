@@ -1,0 +1,21 @@
+h1{ 
+    text-align:center ;
+}
+header img {
+    width: 600px;
+}
+body {
+    color: rgb(159, 25, 5);
+    background-color: rgb(243, 121, 73);
+    font-size: 30;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav {
+    background-color: rgb(178, 48, 48);
+    text-align: center;
+    padding: 8px;
+}
+nav a {
+    text-decoration: none;
+    margin: 10px;
+}
